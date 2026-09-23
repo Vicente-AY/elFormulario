@@ -1,0 +1,17 @@
+D:\Deberes\Interfaces\elFormulario\elFormulario\bin\Debug\net10.0-windows\elFormulario.exe
+D:\Deberes\Interfaces\elFormulario\elFormulario\bin\Debug\net10.0-windows\elFormulario.deps.json
+D:\Deberes\Interfaces\elFormulario\elFormulario\bin\Debug\net10.0-windows\elFormulario.runtimeconfig.json
+D:\Deberes\Interfaces\elFormulario\elFormulario\bin\Debug\net10.0-windows\elFormulario.dll
+D:\Deberes\Interfaces\elFormulario\elFormulario\bin\Debug\net10.0-windows\elFormulario.pdb
+D:\Deberes\Interfaces\elFormulario\elFormulario\obj\Debug\net10.0-windows\elFormulario.Form1.resources
+D:\Deberes\Interfaces\elFormulario\elFormulario\obj\Debug\net10.0-windows\elFormulario.csproj.GenerateResource.cache
+D:\Deberes\Interfaces\elFormulario\elFormulario\obj\Debug\net10.0-windows\elFormulario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deberes\Interfaces\elFormulario\elFormulario\obj\Debug\net10.0-windows\elFormulario.AssemblyInfoInputs.cache
+D:\Deberes\Interfaces\elFormulario\elFormulario\obj\Debug\net10.0-windows\elFormulario.AssemblyInfo.cs
+D:\Deberes\Interfaces\elFormulario\elFormulario\obj\Debug\net10.0-windows\elFormulario.csproj.CoreCompileInputs.cache
+D:\Deberes\Interfaces\elFormulario\elFormulario\obj\Debug\net10.0-windows\elFormulario.dll
+D:\Deberes\Interfaces\elFormulario\elFormulario\obj\Debug\net10.0-windows\refint\elFormulario.dll
+D:\Deberes\Interfaces\elFormulario\elFormulario\obj\Debug\net10.0-windows\elFormulario.pdb
+D:\Deberes\Interfaces\elFormulario\elFormulario\obj\Debug\net10.0-windows\elFormulario.genruntimeconfig.cache
+D:\Deberes\Interfaces\elFormulario\elFormulario\obj\Debug\net10.0-windows\ref\elFormulario.dll
+D:\Deberes\Interfaces\elFormulario\elFormulario\obj\Debug\net10.0-windows\elFormul.FCA14A2C.Up2Date
