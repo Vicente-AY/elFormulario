@@ -36,7 +36,7 @@ namespace elFormulario
 
         private void btnAbajo_Click(object sender, EventArgs e)
         {
-            if (laMover.Top <= laMover.Height)
+            if (laMover.Top >= Height)
             {
                 laMover.Top = -laMover.Height;
             }
