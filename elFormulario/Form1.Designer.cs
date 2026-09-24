@@ -56,9 +56,10 @@
             // 
             // btnArriba
             // 
-            btnArriba.Location = new Point(138, 118);
+            btnArriba.Location = new Point(158, 157);
+            btnArriba.Margin = new Padding(3, 4, 3, 4);
             btnArriba.Name = "btnArriba";
-            btnArriba.Size = new Size(75, 23);
+            btnArriba.Size = new Size(86, 31);
             btnArriba.TabIndex = 0;
             btnArriba.Text = "Arriba";
             btnArriba.UseVisualStyleBackColor = true;
@@ -66,9 +67,10 @@
             // 
             // btnIzquierda
             // 
-            btnIzquierda.Location = new Point(69, 147);
+            btnIzquierda.Location = new Point(79, 196);
+            btnIzquierda.Margin = new Padding(3, 4, 3, 4);
             btnIzquierda.Name = "btnIzquierda";
-            btnIzquierda.Size = new Size(75, 23);
+            btnIzquierda.Size = new Size(86, 31);
             btnIzquierda.TabIndex = 1;
             btnIzquierda.Text = "Izquierda";
             btnIzquierda.UseVisualStyleBackColor = true;
@@ -76,9 +78,10 @@
             // 
             // btnDerecha
             // 
-            btnDerecha.Location = new Point(208, 147);
+            btnDerecha.Location = new Point(238, 196);
+            btnDerecha.Margin = new Padding(3, 4, 3, 4);
             btnDerecha.Name = "btnDerecha";
-            btnDerecha.Size = new Size(75, 23);
+            btnDerecha.Size = new Size(86, 31);
             btnDerecha.TabIndex = 2;
             btnDerecha.Text = "Derecha";
             btnDerecha.UseVisualStyleBackColor = true;
@@ -86,9 +89,10 @@
             // 
             // btnAbajo
             // 
-            btnAbajo.Location = new Point(138, 176);
+            btnAbajo.Location = new Point(158, 235);
+            btnAbajo.Margin = new Padding(3, 4, 3, 4);
             btnAbajo.Name = "btnAbajo";
-            btnAbajo.Size = new Size(75, 23);
+            btnAbajo.Size = new Size(86, 31);
             btnAbajo.TabIndex = 3;
             btnAbajo.Text = "Abajo";
             btnAbajo.UseVisualStyleBackColor = true;
@@ -96,9 +100,10 @@
             // 
             // btnCrea
             // 
-            btnCrea.Location = new Point(377, 299);
+            btnCrea.Location = new Point(431, 399);
+            btnCrea.Margin = new Padding(3, 4, 3, 4);
             btnCrea.Name = "btnCrea";
-            btnCrea.Size = new Size(75, 23);
+            btnCrea.Size = new Size(86, 31);
             btnCrea.TabIndex = 4;
             btnCrea.Text = "Crea Botón";
             btnCrea.UseVisualStyleBackColor = true;
@@ -107,9 +112,10 @@
             // btnVisible
             // 
             btnVisible.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
-            btnVisible.Location = new Point(650, 309);
+            btnVisible.Location = new Point(743, 412);
+            btnVisible.Margin = new Padding(3, 4, 3, 4);
             btnVisible.Name = "btnVisible";
-            btnVisible.Size = new Size(155, 23);
+            btnVisible.Size = new Size(177, 31);
             btnVisible.TabIndex = 5;
             btnVisible.Text = "Pon no Visible";
             btnVisible.UseVisualStyleBackColor = true;
@@ -125,7 +131,7 @@
             laBienvenido.ImageAlign = ContentAlignment.MiddleRight;
             laBienvenido.Location = new Point(0, 0);
             laBienvenido.Name = "laBienvenido";
-            laBienvenido.Size = new Size(832, 44);
+            laBienvenido.Size = new Size(951, 59);
             laBienvenido.TabIndex = 6;
             laBienvenido.Text = "Bienvenido a la aplicación";
             laBienvenido.TextAlign = ContentAlignment.MiddleCenter;
@@ -137,18 +143,21 @@
             groupBox1.Controls.Add(btnTres);
             groupBox1.Controls.Add(btnUno);
             groupBox1.FlatStyle = FlatStyle.Popup;
-            groupBox1.Location = new Point(503, 79);
+            groupBox1.Location = new Point(575, 105);
+            groupBox1.Margin = new Padding(3, 4, 3, 4);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(302, 100);
+            groupBox1.Padding = new Padding(3, 4, 3, 4);
+            groupBox1.Size = new Size(345, 133);
             groupBox1.TabIndex = 9;
             groupBox1.TabStop = false;
             groupBox1.Text = "Prueba de Sender";
             // 
             // btnDos
             // 
-            btnDos.Location = new Point(116, 48);
+            btnDos.Location = new Point(133, 64);
+            btnDos.Margin = new Padding(3, 4, 3, 4);
             btnDos.Name = "btnDos";
-            btnDos.Size = new Size(75, 23);
+            btnDos.Size = new Size(86, 31);
             btnDos.TabIndex = 2;
             btnDos.Text = "Dos";
             btnDos.UseVisualStyleBackColor = true;
@@ -156,9 +165,10 @@
             // 
             // btnTres
             // 
-            btnTres.Location = new Point(221, 48);
+            btnTres.Location = new Point(253, 64);
+            btnTres.Margin = new Padding(3, 4, 3, 4);
             btnTres.Name = "btnTres";
-            btnTres.Size = new Size(75, 23);
+            btnTres.Size = new Size(86, 31);
             btnTres.TabIndex = 1;
             btnTres.Text = "Tres";
             btnTres.UseVisualStyleBackColor = true;
@@ -166,9 +176,10 @@
             // 
             // btnUno
             // 
-            btnUno.Location = new Point(6, 48);
+            btnUno.Location = new Point(7, 64);
+            btnUno.Margin = new Padding(3, 4, 3, 4);
             btnUno.Name = "btnUno";
-            btnUno.Size = new Size(75, 23);
+            btnUno.Size = new Size(86, 31);
             btnUno.TabIndex = 0;
             btnUno.Text = "Uno";
             btnUno.UseVisualStyleBackColor = true;
@@ -187,17 +198,19 @@
             pnBotones.Controls.Add(btnAumenta);
             pnBotones.Cursor = Cursors.Hand;
             pnBotones.Dock = DockStyle.Bottom;
-            pnBotones.Location = new Point(0, 350);
+            pnBotones.Location = new Point(0, 468);
+            pnBotones.Margin = new Padding(3, 4, 3, 4);
             pnBotones.Name = "pnBotones";
-            pnBotones.Size = new Size(832, 100);
+            pnBotones.Size = new Size(951, 132);
             pnBotones.TabIndex = 10;
             pnBotones.Paint += pnBotones_Paint;
             // 
             // btnSalir
             // 
-            btnSalir.Location = new Point(378, 70);
+            btnSalir.Location = new Point(432, 93);
+            btnSalir.Margin = new Padding(3, 4, 3, 4);
             btnSalir.Name = "btnSalir";
-            btnSalir.Size = new Size(83, 23);
+            btnSalir.Size = new Size(95, 31);
             btnSalir.TabIndex = 7;
             btnSalir.Text = "Salir";
             btnSalir.UseVisualStyleBackColor = true;
@@ -205,9 +218,10 @@
             // 
             // btnDisminuye
             // 
-            btnDisminuye.Location = new Point(168, 27);
+            btnDisminuye.Location = new Point(192, 36);
+            btnDisminuye.Margin = new Padding(3, 4, 3, 4);
             btnDisminuye.Name = "btnDisminuye";
-            btnDisminuye.Size = new Size(75, 23);
+            btnDisminuye.Size = new Size(86, 31);
             btnDisminuye.TabIndex = 6;
             btnDisminuye.Text = "Disminuye";
             btnDisminuye.UseVisualStyleBackColor = true;
@@ -215,9 +229,10 @@
             // 
             // btnDelante
             // 
-            btnDelante.Location = new Point(272, 27);
+            btnDelante.Location = new Point(311, 36);
+            btnDelante.Margin = new Padding(3, 4, 3, 4);
             btnDelante.Name = "btnDelante";
-            btnDelante.Size = new Size(75, 23);
+            btnDelante.Size = new Size(86, 31);
             btnDelante.TabIndex = 5;
             btnDelante.Text = "Delante";
             btnDelante.UseVisualStyleBackColor = true;
@@ -225,9 +240,10 @@
             // 
             // btnControlesForm
             // 
-            btnControlesForm.Location = new Point(474, 27);
+            btnControlesForm.Location = new Point(542, 36);
+            btnControlesForm.Margin = new Padding(3, 4, 3, 4);
             btnControlesForm.Name = "btnControlesForm";
-            btnControlesForm.Size = new Size(108, 23);
+            btnControlesForm.Size = new Size(123, 31);
             btnControlesForm.TabIndex = 4;
             btnControlesForm.Text = "ControlesForm";
             btnControlesForm.UseVisualStyleBackColor = true;
@@ -235,9 +251,10 @@
             // 
             // btnControlesPanel
             // 
-            btnControlesPanel.Location = new Point(617, 27);
+            btnControlesPanel.Location = new Point(705, 36);
+            btnControlesPanel.Margin = new Padding(3, 4, 3, 4);
             btnControlesPanel.Name = "btnControlesPanel";
-            btnControlesPanel.Size = new Size(75, 23);
+            btnControlesPanel.Size = new Size(86, 31);
             btnControlesPanel.TabIndex = 3;
             btnControlesPanel.Text = "Botones Panel";
             btnControlesPanel.UseVisualStyleBackColor = true;
@@ -245,18 +262,21 @@
             // 
             // btnAcercaDe
             // 
-            btnAcercaDe.Location = new Point(714, 27);
+            btnAcercaDe.Location = new Point(816, 36);
+            btnAcercaDe.Margin = new Padding(3, 4, 3, 4);
             btnAcercaDe.Name = "btnAcercaDe";
-            btnAcercaDe.Size = new Size(83, 23);
+            btnAcercaDe.Size = new Size(95, 31);
             btnAcercaDe.TabIndex = 2;
             btnAcercaDe.Text = "Acerca de";
             btnAcercaDe.UseVisualStyleBackColor = true;
+            btnAcercaDe.Click += btnAcercaDe_Click;
             // 
             // btnDetras
             // 
-            btnDetras.Location = new Point(378, 27);
+            btnDetras.Location = new Point(432, 36);
+            btnDetras.Margin = new Padding(3, 4, 3, 4);
             btnDetras.Name = "btnDetras";
-            btnDetras.Size = new Size(75, 23);
+            btnDetras.Size = new Size(86, 31);
             btnDetras.TabIndex = 1;
             btnDetras.Text = "Detrás";
             btnDetras.UseVisualStyleBackColor = true;
@@ -264,9 +284,10 @@
             // 
             // btnAumenta
             // 
-            btnAumenta.Location = new Point(58, 27);
+            btnAumenta.Location = new Point(66, 36);
+            btnAumenta.Margin = new Padding(3, 4, 3, 4);
             btnAumenta.Name = "btnAumenta";
-            btnAumenta.Size = new Size(75, 23);
+            btnAumenta.Size = new Size(86, 31);
             btnAumenta.TabIndex = 0;
             btnAumenta.Text = "Aumenta";
             btnAumenta.UseVisualStyleBackColor = true;
@@ -277,9 +298,9 @@
             laTamanyo.AutoSize = true;
             laTamanyo.Dock = DockStyle.Bottom;
             laTamanyo.ForeColor = SystemColors.InactiveCaptionText;
-            laTamanyo.Location = new Point(0, 335);
+            laTamanyo.Location = new Point(0, 448);
             laTamanyo.Name = "laTamanyo";
-            laTamanyo.Size = new Size(19, 15);
+            laTamanyo.Size = new Size(25, 20);
             laTamanyo.TabIndex = 11;
             laTamanyo.Text = "16";
             // 
@@ -288,17 +309,17 @@
             laMover.AutoSize = true;
             laMover.BackColor = SystemColors.ActiveCaption;
             laMover.Font = new Font("Segoe UI", 16F);
-            laMover.Location = new Point(377, 139);
+            laMover.Location = new Point(431, 185);
             laMover.Name = "laMover";
-            laMover.Size = new Size(78, 30);
+            laMover.Size = new Size(97, 37);
             laMover.TabIndex = 12;
             laMover.Text = "XXXXX";
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(832, 450);
+            ClientSize = new Size(951, 600);
             Controls.Add(laMover);
             Controls.Add(laTamanyo);
             Controls.Add(pnBotones);
@@ -310,6 +331,7 @@
             Controls.Add(btnDerecha);
             Controls.Add(btnIzquierda);
             Controls.Add(btnArriba);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "ElFormulario";
             groupBox1.ResumeLayout(false);

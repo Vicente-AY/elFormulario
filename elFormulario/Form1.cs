@@ -173,6 +173,7 @@ namespace elFormulario
         private void btnCrea_Click(object sender, EventArgs e)
         {
             Button miboton = new Button();
+            miboton.Name = "Boton Creado";
             miboton.Text = "Mi botón";
             miboton.Size = new System.Drawing.Size(100, 25);
             miboton.Location = new System.Drawing.Point(470, 300);
@@ -187,6 +188,12 @@ namespace elFormulario
         private void miboton_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Click del Nuevo Botón Creado");
+        }
+
+        private void btnAcercaDe_Click(object sender, EventArgs e)
+        {
+            fmAcercade VentanaAcercade = new fmAcercade();
+            VentanaAcercade.Show();
         }
     }
 }

@@ -8,19 +8,19 @@
     "net10.0-windows": []
   },
   "packageFolders": {
-    "C:\\Users\\vicalbyag\\.nuget\\packages\\": {}
+    "C:\\Users\\Vicente\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Deberes\\Interfaces\\elFormulario\\elFormulario\\elFormulario.csproj",
+      "projectUniqueName": "F:\\Deberes\\Interfaces\\elFormulario\\elFormulario\\elFormulario.csproj",
       "projectName": "elFormulario",
-      "projectPath": "D:\\Deberes\\Interfaces\\elFormulario\\elFormulario\\elFormulario.csproj",
-      "packagesPath": "C:\\Users\\vicalbyag\\.nuget\\packages\\",
-      "outputPath": "D:\\Deberes\\Interfaces\\elFormulario\\elFormulario\\obj\\",
+      "projectPath": "F:\\Deberes\\Interfaces\\elFormulario\\elFormulario\\elFormulario.csproj",
+      "packagesPath": "C:\\Users\\Vicente\\.nuget\\packages\\",
+      "outputPath": "F:\\Deberes\\Interfaces\\elFormulario\\elFormulario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vicalbyag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vicente\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
